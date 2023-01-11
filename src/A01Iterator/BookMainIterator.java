@@ -2,7 +2,7 @@ package A01Iterator;
 
 import java.util.Iterator;
 
-public class A01BookMainIterator {
+public class BookMainIterator {
 
     public static void main(String[] args) {
 //        BookShelf bookShelf = new BookShelf(4);
