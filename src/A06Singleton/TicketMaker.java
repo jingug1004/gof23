@@ -1,4 +1,4 @@
-package A05Singleton;
+package A06Singleton;
 
 public class TicketMaker {
     private static TicketMaker singleton = new TicketMaker();

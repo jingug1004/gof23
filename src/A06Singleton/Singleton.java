@@ -1,4 +1,4 @@
-package A05Singleton;
+package A06Singleton;
 
 public class Singleton {
     private static Singleton singleton = new Singleton();

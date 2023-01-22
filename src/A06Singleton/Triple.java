@@ -1,4 +1,4 @@
-package A05Singleton;
+package A06Singleton;
 
 import java.util.Arrays;
 import java.util.HashMap;
